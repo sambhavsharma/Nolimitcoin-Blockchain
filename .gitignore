@@ -46,3 +46,22 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# .o and .P files
+src/obj/*.P
+src/obj/*.o
+
+src/obj/zerocoin/*.P
+src/obj/zerocoin/*.o
+
+# release folder
+release
+
+# binaries (ubuntu, mac and windows)
+NoLimitCoin-qt
+
+# build folder
+build
+
+# headless build
+src/NoLimitCoind
