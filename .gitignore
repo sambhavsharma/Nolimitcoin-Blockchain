@@ -65,3 +65,6 @@ build
 
 # headless build
 src/NoLimitCoind
+
+# Makefile
+Makefile
